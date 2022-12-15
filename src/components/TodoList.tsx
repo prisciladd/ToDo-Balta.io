@@ -10,6 +10,7 @@ const TodoList = () => {
    const {todos} = useContext<TodoContextType>(TodoContext);        //{destruction} extraindo todos do context
 
     return(
+        
         <table className="uk-table">
             <caption>Lista de Tarefas</caption>
             <thead>

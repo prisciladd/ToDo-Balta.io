@@ -1,0 +1,21 @@
+[
+    {
+        "Titulo" : "Angular", 
+        "Nivel" : "Iniciante",
+        "Link" :  "https://loiane.training/curso/angular", 
+        "Categoria" : "Youtube", 
+        "DuracaoHora" : "28", 
+        "DuracaoMinuto" : "14", 
+        "Idioma" : "Português"
+    },
+
+    {
+        "Titulo" : "Introdução ao Angular", 
+        "Nivel" : "Iniciante",
+        "Link" :  "https://www.youtube.com/playlist?list=PL-u8JWLN6xasUXsbNeDZSMQTq5T4_Utko", 
+        "Categoria" : "Youtube", 
+        "DuracaoHora" : "03", 
+        "DuracaoMinuto" : "00", 
+        "Idioma" : "Português"
+    }
+]
